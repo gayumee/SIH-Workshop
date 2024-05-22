@@ -2,7 +2,7 @@
 
 ## 1. First Slide
 
-[Screenshot 2024-05-22 194243](https://github.com/gayumee/SIH-Workshop/assets/149037327/343266fa-1abd-4aa1-91db-7707459e3ac3)
+![Screenshot 2024-05-22 194243](https://github.com/gayumee/SIH-Workshop/assets/149037327/343266fa-1abd-4aa1-91db-7707459e3ac3)
 
 ## 2. Second Slide
 
